@@ -124,7 +124,7 @@ body{
     margin-bottom:15px ;
 }
 .trecking-img img{
-    width:17rem;
+    width:21.5rem;
     height:25rem;
     
 }
@@ -282,7 +282,14 @@ body{
             margin-top: 20px !important;
             margin-bottom: 0 !important;
             width:22rem;
-           
+           .trecking-img img
+            }
+       . trecking.img img{
+              width:17rem;
+              height:25rem;
+    
+
         }
+    
  }
 
